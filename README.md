@@ -1,5 +1,7 @@
 # Sparta App
 
+Deploy Sparta app (see tech508-sparta-app) with Jenkins for CICD pipeline
+
 ## Architecture
 ![appDiagram](sparta-app-jenkins.png)
 
